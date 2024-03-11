@@ -22,9 +22,9 @@ setup(
     packages=find_packages(),
     install_requires=['opencv-python', 'pyautogui', 'pyaudio'],
     keywords=['python', 'video', 'stream', 'video stream', 'camera stream', 'sockets'],
-    url = "https://github.com/minhduc1999/dut_tea.git",
+    url = "https://github.com/minhduc1999/dut-tea.git",
     project_urls = {
-        "Source": "https://github.com/minhduc1999/dut_tea.git",
+        "Source": "https://github.com/minhduc1999/dut-tea.git",
     },
     classifiers=[
         "Development Status :: 1 - Planning",
